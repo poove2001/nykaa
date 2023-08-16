@@ -1,0 +1,9 @@
+table,tr,th,td{border: 3px solid black;border-collapse: collapse;
+    background-color: aqua;
+    width: 450px;height: 25px;
+text-align: center;
+
+}
+th{
+    background-color:wheat;
+}
